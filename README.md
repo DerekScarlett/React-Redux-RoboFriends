@@ -1,7 +1,7 @@
 # robofriends
 This porject uses a free api with fake data to populate the different robot cards and allows the user to search for a specific robots that they are looking for.
 
-![image](https://user-images.githubusercontent.com/36242561/46299144-bb0bfe80-c56e-11e8-99cd-0b37aea945a7.png)
+![image](https://user-images.githubusercontent.com/36242561/46300969-032d2000-c573-11e8-99d9-b22386a56241.png)
 
 How It's Made:
 
